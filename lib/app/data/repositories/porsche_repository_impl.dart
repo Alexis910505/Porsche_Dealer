@@ -17,10 +17,10 @@ class PorscheRepositoryImpl implements PorscheRepository {
         imageUrl:
             'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
         galleryImages: [
-          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-exterior-01/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
-          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-exterior-02/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
-          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-exterior-03/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
-          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-interior-01/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
+          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
+          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
+          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
+          'https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/765dfc51-51bc-11ed-80f5-005056bbdc38/porsche-model.png',
         ],
         category: 'Sports',
         price: 241300.00,
